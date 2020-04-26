@@ -1,5 +1,6 @@
 ---
-title: Contact Me
-layout: contact_me
-permalink: /contact
+title: Contact
+menus: header
+layout: contact
+permalink: /contact/
 ---
